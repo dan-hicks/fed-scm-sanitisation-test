@@ -1,2 +1,2 @@
-echo "output message from script";
+echo "SCRIPT UPDATE MESSAGE TEST";
 exit 1;
