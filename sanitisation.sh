@@ -1,2 +1,2 @@
 echo "SCRIPT UPDATE MESSAGE TEST";
-exit 0;
+exit 1;
