@@ -1,0 +1,2 @@
+echo "SCRIPT UPDATE MESSAGE TEST";
+exit 1;
