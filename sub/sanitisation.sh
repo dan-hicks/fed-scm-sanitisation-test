@@ -1,2 +1,2 @@
-echo "second file error message here";
+echo "wub wub wub";
 exit 0;
