@@ -1,2 +1,2 @@
 echo "wub wub wub";
-exit 0;
+exit 1;
