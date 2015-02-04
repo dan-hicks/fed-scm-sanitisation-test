@@ -1,2 +1,2 @@
 echo "[SANITISATION SCRIPT MESSAGE HERE]";
-exit 0;
+exit 1;
