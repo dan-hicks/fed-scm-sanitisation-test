@@ -4,4 +4,4 @@ if [ -f "${1}" ]; then
   echo "FILE EXISTS" 
 fi
 
-exit 0;
+exit 1;
