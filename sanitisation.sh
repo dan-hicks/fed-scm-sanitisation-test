@@ -4,6 +4,6 @@ if [ -f "${1}" ]; then
   echo "FILE EXISTS" 
 fi
 
-echo $2;
+echo $@;
 
 exit 0;
